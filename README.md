@@ -1,2 +1,2 @@
-# Fulgore-tiimeline
-the timeline connected to Fulgore
+# Thunder
+The General Visualizer library
